@@ -1,5 +1,6 @@
-package com.example.whereareyou;
+package com.aadhavan.whereareyou;
 
+import com.example.whereareyou.R;
 import com.google.android.maps.MapActivity;
 
 import android.os.Bundle;
